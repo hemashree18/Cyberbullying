@@ -1,0 +1,53 @@
+{
+    "users": [
+        {
+            "name": "user",
+            "email": "user@gmail.com",
+            "age": 23,
+            "sex": "Female",
+            "password": "1234"
+        },
+        {
+            "name": "Hemashree ",
+            "email": "hemaheggade@gmail.com",
+            "age": 21,
+            "sex": "Female",
+            "password": "123"
+        },
+        {
+            "name": "maanusha",
+            "email": "maanushasp@gmail.com",
+            "age": 22,
+            "sex": "Female",
+            "password": "1122"
+        },
+        {
+            "name": "hamsa",
+            "email": "123@gmail.com",
+            "age": 21,
+            "sex": "Female",
+            "password": "1234"
+        },
+        {
+            "name": "XXX",
+            "email": "xyz@gmail.com",
+            "age": 22,
+            "sex": "Male",
+            "password": "11"
+        },
+        {
+            "name": "maanusha S P",
+            "email": "maanusha@gmail.com",
+            "age": 22,
+            "sex": "Female",
+            "password": "123"
+        },
+        {
+            "name": "liki",
+            "email": "liki@123",
+            "age": 22,
+            "sex": "Female",
+            "password": "123"
+        }
+    ]
+}
